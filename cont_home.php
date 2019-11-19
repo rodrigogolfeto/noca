@@ -48,7 +48,7 @@ include('includes/topo.inc.php');
 
 		<div class="row pt-5 mt-5">
 			<div class="col-sm-4 col-12 pb-0">
-				<div class="w-100 h-100 position-relative d-flex align-items-end linha-top-left pb-0">
+				<div class="w-100 h-100 position-relative d-flex align-items-end linha-top-left pb-0 pt-5 pt-sm-0">
 					<div class="pb-0">
 						<h3 class="font-40 mb-3 line-height-120">Casas container são a nova aposta sustentável no ramo de construção.</h3>
 						<p class="font-16 line-height-150 pb-0 mb-0">Casas feitas com containers usados ou novos são a nova tendência e incrivelmente modernas. Uma ótima opção para quem quer radicalizar e inovar. <a href="" class="color-ff7a1a font-weight-bold">LEIA MAIS</a></p>
@@ -85,37 +85,37 @@ include('includes/topo.inc.php');
 	<div class="bg-e7e5df listagem-de-posts">
 		<div class="container">
 			<div class="row mt-5 pt-5">
-				<div class="col-4 mb-5">
+				<div class="col-12 col-sm-4 mb-5">
 					<img src="images/temp/post-1.png" alt="" class="w-100 mb-3" />
 					<div class="text-uppercase mb-2 color-787469">trends</div>
 					<div class="font-weight-bold font-24 line-height-120 mb-3 color-212121">O que está acontecendo em cores no mundo digital?</div>
 					<div class=""><a href="blog" class="btn btn-outline-primary font-12 font-weight-bold">LEIA MAIS</a></div>
 				</div>
-				<div class="col-4 mb-5">
+				<div class="col-12 col-sm-4 mb-5">
 					<img src="images/temp/post-1.png" alt="" class="w-100 mb-3" />
 					<div class="text-uppercase mb-2 color-787469">trends</div>
 					<div class="font-weight-bold font-24 line-height-120 mb-3 color-212121">O que está acontecendo em cores no mundo digital?</div>
 					<div class=""><a href="blog" class="btn btn-outline-primary font-12 font-weight-bold">LEIA MAIS</a></div>
 				</div>
-				<div class="col-4 mb-5">
+				<div class="col-12 col-sm-4 mb-5">
 					<img src="images/temp/post-1.png" alt="" class="w-100 mb-3" />
 					<div class="text-uppercase mb-2 color-787469">trends</div>
 					<div class="font-weight-bold font-24 line-height-120 mb-3 color-212121">O que está acontecendo em cores no mundo digital?</div>
 					<div class=""><a href="blog" class="btn btn-outline-primary font-12 font-weight-bold">LEIA MAIS</a></div>
 				</div>
-				<div class="col-4 mb-5">
+				<div class="col-12 col-sm-4 mb-5">
 					<img src="images/temp/post-1.png" alt="" class="w-100 mb-3" />
 					<div class="text-uppercase mb-2 color-787469">trends</div>
 					<div class="font-weight-bold font-24 line-height-120 mb-3 color-212121">O que está acontecendo em cores no mundo digital?</div>
 					<div class=""><a href="blog" class="btn btn-outline-primary font-12 font-weight-bold">LEIA MAIS</a></div>
 				</div>
-				<div class="col-4 mb-5">
+				<div class="col-12 col-sm-4 mb-5">
 					<img src="images/temp/post-1.png" alt="" class="w-100 mb-3" />
 					<div class="text-uppercase mb-2 color-787469">trends</div>
 					<div class="font-weight-bold font-24 line-height-120 mb-3 color-212121">O que está acontecendo em cores no mundo digital?</div>
 					<div class=""><a href="blog" class="btn btn-outline-primary font-12 font-weight-bold">LEIA MAIS</a></div>
 				</div>
-				<div class="col-4 mb-5">
+				<div class="col-12 col-sm-4 mb-5">
 					<img src="images/temp/post-1.png" alt="" class="w-100 mb-3" />
 					<div class="text-uppercase mb-2 color-787469">trends</div>
 					<div class="font-weight-bold font-24 line-height-120 mb-3 color-212121">O que está acontecendo em cores no mundo digital?</div>

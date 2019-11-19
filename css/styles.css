@@ -93,6 +93,8 @@ a:hover { text-decoration: none; }
 .imagem-destaque-filter::before { content:'';width: 116px;height: 55px;left: calc(50% - 58px);position: absolute;display: block;background: url(../images/logo.png) no-repeat center center;background-size:cover;bottom:15px;z-index:50; }
 .imagem-destaque-filter .container { z-index: 10;position:relative; }
 
+#carouselDestaque .carousel-indicators { display:none; }
+
 .destaque-post { padding-right: 600px !important; }
 
 .linha-top-left { position:relative; }
@@ -108,12 +110,25 @@ a:hover { text-decoration: none; }
 .btn-outline-primary:not(:disabled):not(.disabled).active,.btn-outline-primary:not(:disabled):not(.disabled):active,.show>.btn-outline-primary.dropdown-toggle{color:#fff;background-color:#FF7A1A;border-color:#FF7A1A}
 .btn-outline-primary:not(:disabled):not(.disabled).active:focus,.btn-outline-primary:not(:disabled):not(.disabled):active:focus,.show>.btn-outline-primary.dropdown-toggle:focus{box-shadow:0 0 0 .2rem rgba(255,122,26,.5)}
 
-.listagem-de-posts { margin-top:200px;padding-top:1px; }
+.listagem-de-posts { margin-top:140px;padding-top:1px; }
 .listagem-de-posts .container .row { transform: translate(0px, -180px) !important; }
 
+.listagem-de-posts-aberto { margin-top:0px;padding-top:1px; }
+.listagem-de-posts-aberto .container .row { transform: translate(0px, 0) !important; }
+
+.lupa { position:relative; }
+.lupa::after { content:'';position:absolute;right:27px;top:calc(50% - 7.5px);width:15px;height:15px;background:url(../images/lupa.png) no-repeat center center;background-size:cover;display:block; }
+
+.bold { font-weight:bold !important; }
 
 @media (min-width: 768px) { /* COL MD */	
+
+	#carouselDestaque .carousel-indicators { display:inline-flex; }
 	
+	.listagem-de-posts { margin-top:200px;padding-top:1px; }
+	.listagem-de-posts-aberto { margin-top:0px;padding-top:1px; }
+	.listagem-de-posts-aberto .container .row { transform: translate(0px,0px) !important; }
+
 	#carouselBlog .carousel-indicators { flex-direction: column !important;left:unset;bottom:unset;align-items: center!important;height: 100vh; }
 	#carouselBlog .carousel-indicators li { width: 8px;height: 8px;border:2px solid #FFF;background: none;border-radius: 50px;margin-top: 10px;margin-bottom: 10px; }
 
@@ -158,6 +173,10 @@ a:hover { text-decoration: none; }
 	.font-xl-32 { font-size:2rem !important; /* 32px */ }
 	.font-xl-40 { font-size:2.5rem !important; /* 40px */ }	
 	.font-xl-60 { font-size:5.75rem !important; /* 60px */ } 
+
+	.blog-com-foto { padding-right: 200px;padding-bottom:350px !important; }
+	.blog-sem-foto { padding-right: 200px; }
+
 }
 
 /* FANCYBOX */
