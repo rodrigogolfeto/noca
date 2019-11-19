@@ -87,7 +87,7 @@ a:hover { text-decoration: none; }
 .noca-w-100 { width: 100vw !important; }
 .noca-h-100 { height: 100vh !important; }
 
-#carouselBlog .carousel-indicators { flex-direction: column !important;left:unset;bottom:unset;align-items: center!important;height: 100vh; }
+#carouselBlog .carousel-indicators { flex-direction: column !important;left:unset;bottom:unset;align-items: center!important;height: 100vh;transform: translate(40px, 0px) !important; }
 #carouselBlog .carousel-indicators li { width: 8px;height: 8px;border:2px solid #FFF;background: none;border-radius: 50px;margin-top: 10px;margin-bottom: 10px; }
 .imagem-destaque-filter::after { content:'';width: 100%;height: 100%;position:absolute;display:block;background:#000;top:0;left:0;opacity: .4;z-index: 0; }
 .imagem-destaque-filter::before { content:'';width: 116px;height: 55px;left: calc(50% - 58px);position: absolute;display: block;background: url(../images/logo.png) no-repeat center center;background-size:cover;bottom:15px;z-index:50; }
@@ -112,7 +112,10 @@ a:hover { text-decoration: none; }
 .listagem-de-posts .container .row { transform: translate(0px, -180px) !important; }
 
 
-@media (min-width: 768px) { /* COL MD */		
+@media (min-width: 768px) { /* COL MD */	
+	
+	#carouselBlog .carousel-indicators { flex-direction: column !important;left:unset;bottom:unset;align-items: center!important;height: 100vh; }
+	#carouselBlog .carousel-indicators li { width: 8px;height: 8px;border:2px solid #FFF;background: none;border-radius: 50px;margin-top: 10px;margin-bottom: 10px; }
 
 	.font-md-11 { font-size:.6875rem !important; /* 11px */ }
 	.font-md-13 { font-size:.8125rem !important; /* 13px */ }

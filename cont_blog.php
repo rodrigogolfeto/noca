@@ -47,7 +47,7 @@ include('includes/topo.inc.php');
 	<div class="container">
 
 		<div class="row pt-5 mt-5">
-			<div class="col-4 pb-0">
+			<div class="col-sm-4 col-12 pb-0">
 				<div class="w-100 h-100 position-relative d-flex align-items-end linha-top-left pb-0">
 					<div class="pb-0">
 						<h3 class="font-40 mb-3 line-height-120">Casas container são a nova aposta sustentável no ramo de construção.</h3>
@@ -55,7 +55,7 @@ include('includes/topo.inc.php');
 					</div>
 				</div>
 			</div>
-			<div class="col-8">
+			<div class="col-sm-8 col-12">
 				<div id="carouselDestaque" class="carousel slide carousel-fade" data-ride="carousel">
 					<ol class="carousel-indicators">
 						<li data-target="#carouselDestaque" data-slide-to="0" class="active"></li>
