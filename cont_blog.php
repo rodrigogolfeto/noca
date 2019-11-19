@@ -89,37 +89,37 @@ include('includes/topo.inc.php');
 					<img src="images/temp/post-1.png" alt="" class="w-100 mb-3" />
 					<div class="text-uppercase mb-2 color-787469">trends</div>
 					<div class="font-weight-bold font-24 line-height-120 mb-3 color-212121">O que está acontecendo em cores no mundo digital?</div>
-					<div class=""><a href="blog" class="btn btn-outline-primary font-12 font-weight-bold">LEIA MAIS</a></div>
+					<div class=""><button class="btn btn-outline-primary font-12 font-weight-bold">LEIA MAIS</button></div>
 				</div>
 				<div class="col-4 mb-5">
 					<img src="images/temp/post-1.png" alt="" class="w-100 mb-3" />
 					<div class="text-uppercase mb-2 color-787469">trends</div>
 					<div class="font-weight-bold font-24 line-height-120 mb-3 color-212121">O que está acontecendo em cores no mundo digital?</div>
-					<div class=""><a href="blog" class="btn btn-outline-primary font-12 font-weight-bold">LEIA MAIS</a></div>
+					<div class=""><button class="btn btn-outline-primary font-12 font-weight-bold">LEIA MAIS</button></div>
 				</div>
 				<div class="col-4 mb-5">
 					<img src="images/temp/post-1.png" alt="" class="w-100 mb-3" />
 					<div class="text-uppercase mb-2 color-787469">trends</div>
 					<div class="font-weight-bold font-24 line-height-120 mb-3 color-212121">O que está acontecendo em cores no mundo digital?</div>
-					<div class=""><a href="blog" class="btn btn-outline-primary font-12 font-weight-bold">LEIA MAIS</a></div>
+					<div class=""><button class="btn btn-outline-primary font-12 font-weight-bold">LEIA MAIS</button></div>
 				</div>
 				<div class="col-4 mb-5">
 					<img src="images/temp/post-1.png" alt="" class="w-100 mb-3" />
 					<div class="text-uppercase mb-2 color-787469">trends</div>
 					<div class="font-weight-bold font-24 line-height-120 mb-3 color-212121">O que está acontecendo em cores no mundo digital?</div>
-					<div class=""><a href="blog" class="btn btn-outline-primary font-12 font-weight-bold">LEIA MAIS</a></div>
+					<div class=""><button class="btn btn-outline-primary font-12 font-weight-bold">LEIA MAIS</button></div>
 				</div>
 				<div class="col-4 mb-5">
 					<img src="images/temp/post-1.png" alt="" class="w-100 mb-3" />
 					<div class="text-uppercase mb-2 color-787469">trends</div>
 					<div class="font-weight-bold font-24 line-height-120 mb-3 color-212121">O que está acontecendo em cores no mundo digital?</div>
-					<div class=""><a href="blog" class="btn btn-outline-primary font-12 font-weight-bold">LEIA MAIS</a></div>
+					<div class=""><button class="btn btn-outline-primary font-12 font-weight-bold">LEIA MAIS</button></div>
 				</div>
 				<div class="col-4 mb-5">
 					<img src="images/temp/post-1.png" alt="" class="w-100 mb-3" />
 					<div class="text-uppercase mb-2 color-787469">trends</div>
 					<div class="font-weight-bold font-24 line-height-120 mb-3 color-212121">O que está acontecendo em cores no mundo digital?</div>
-					<div class=""><a href="blog" class="btn btn-outline-primary font-12 font-weight-bold">LEIA MAIS</a></div>
+					<div class=""><button class="btn btn-outline-primary font-12 font-weight-bold">LEIA MAIS</button></div>
 				</div>
 			</div>
 
